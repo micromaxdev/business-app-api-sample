@@ -1,0 +1,189 @@
+{"timestamp": "2025-10-22T03:47:32.500948+00:00", "office": "Sydney - Head Office", "occupancy": 13, "capacity": 200}
+{"timestamp": "2025-10-22T03:47:32.500960+00:00", "office": "Melbourne - Sales Hub", "occupancy": 5, "capacity": 120}
+{"timestamp": "2025-10-22T03:47:32.500967+00:00", "office": "Brisbane - Regional Office", "occupancy": 7, "capacity": 80}
+{"timestamp": "2025-10-22T03:47:32.500971+00:00", "office": "Perth - Support Centre", "occupancy": 4, "capacity": 60}
+{"timestamp": "2025-10-22T03:47:32.500973+00:00", "office": "Adelaide - Field Team", "occupancy": 1, "capacity": 30}
+{"timestamp": "2025-10-22T03:47:32.500976+00:00", "office": "Auckland - NZ Branch", "occupancy": 3, "capacity": 50}
+{"timestamp": "2025-10-22T03:47:32.500978+00:00", "office": "Wellington - NZ Support", "occupancy": 4, "capacity": 50}
+{"timestamp": "2025-10-22T03:47:32.500981+00:00", "office": "New York - US Sales", "occupancy": 6, "capacity": 90}
+{"timestamp": "2025-10-22T03:47:32.500983+00:00", "office": "London - EMEA Office", "occupancy": 5, "capacity": 70}
+{"timestamp": "2025-10-22T03:48:18.535122+00:00", "office": "Wollongong - Head Office", "occupancy": 18, "capacity": 200}
+{"timestamp": "2025-10-22T03:48:18.535134+00:00", "office": "Melbourne - Sales Hub", "occupancy": 13, "capacity": 120}
+{"timestamp": "2025-10-22T03:48:18.535140+00:00", "office": "Brisbane - Regional Office", "occupancy": 5, "capacity": 80}
+{"timestamp": "2025-10-22T03:48:18.535144+00:00", "office": "Perth - Support Centre", "occupancy": 4, "capacity": 60}
+{"timestamp": "2025-10-22T03:48:18.535147+00:00", "office": "Adelaide - Field Team", "occupancy": 2, "capacity": 30}
+{"timestamp": "2025-10-22T03:48:18.535150+00:00", "office": "Auckland - NZ Branch", "occupancy": 2, "capacity": 50}
+{"timestamp": "2025-10-22T03:48:18.535152+00:00", "office": "Wellington - NZ Support", "occupancy": 4, "capacity": 50}
+{"timestamp": "2025-10-22T03:48:18.535154+00:00", "office": "New York - US Sales", "occupancy": 0, "capacity": 90}
+{"timestamp": "2025-10-22T03:48:18.535157+00:00", "office": "London - EMEA Office", "occupancy": 3, "capacity": 70}
+{"timestamp": "2025-10-22T04:03:18.579708+00:00", "office": "Wollongong - Head Office", "occupancy": 9, "capacity": 200}
+{"timestamp": "2025-10-22T04:03:18.579734+00:00", "office": "Melbourne - Sales Hub", "occupancy": 9, "capacity": 120}
+{"timestamp": "2025-10-22T04:03:18.579740+00:00", "office": "Brisbane - Regional Office", "occupancy": 3, "capacity": 80}
+{"timestamp": "2025-10-22T04:03:18.579745+00:00", "office": "Perth - Support Centre", "occupancy": 5, "capacity": 60}
+{"timestamp": "2025-10-22T04:03:18.579749+00:00", "office": "Adelaide - Field Team", "occupancy": 1, "capacity": 30}
+{"timestamp": "2025-10-22T04:03:18.579753+00:00", "office": "Auckland - NZ Branch", "occupancy": 0, "capacity": 50}
+{"timestamp": "2025-10-22T04:03:18.579757+00:00", "office": "Wellington - NZ Support", "occupancy": 3, "capacity": 50}
+{"timestamp": "2025-10-22T04:03:18.579760+00:00", "office": "New York - US Sales", "occupancy": 0, "capacity": 90}
+{"timestamp": "2025-10-22T04:03:18.579764+00:00", "office": "London - EMEA Office", "occupancy": 5, "capacity": 70}
+{"timestamp": "2025-10-22T04:18:18.612995+00:00", "office": "Wollongong - Head Office", "occupancy": 7, "capacity": 200}
+{"timestamp": "2025-10-22T04:18:18.613132+00:00", "office": "Melbourne - Sales Hub", "occupancy": 12, "capacity": 120}
+{"timestamp": "2025-10-22T04:18:18.613166+00:00", "office": "Brisbane - Regional Office", "occupancy": 2, "capacity": 80}
+{"timestamp": "2025-10-22T04:18:18.613192+00:00", "office": "Perth - Support Centre", "occupancy": 3, "capacity": 60}
+{"timestamp": "2025-10-22T04:18:18.613217+00:00", "office": "Adelaide - Field Team", "occupancy": 2, "capacity": 30}
+{"timestamp": "2025-10-22T04:18:18.613243+00:00", "office": "Auckland - NZ Branch", "occupancy": 0, "capacity": 50}
+{"timestamp": "2025-10-22T04:18:18.613268+00:00", "office": "Wellington - NZ Support", "occupancy": 2, "capacity": 50}
+{"timestamp": "2025-10-22T04:18:18.613293+00:00", "office": "New York - US Sales", "occupancy": 1, "capacity": 90}
+{"timestamp": "2025-10-22T04:18:18.613320+00:00", "office": "London - EMEA Office", "occupancy": 4, "capacity": 70}
+{"timestamp": "2025-10-22T04:33:18.633267+00:00", "office": "Wollongong - Head Office", "occupancy": 21, "capacity": 200}
+{"timestamp": "2025-10-22T04:33:18.633377+00:00", "office": "Melbourne - Sales Hub", "occupancy": 6, "capacity": 120}
+{"timestamp": "2025-10-22T04:33:18.633411+00:00", "office": "Brisbane - Regional Office", "occupancy": 3, "capacity": 80}
+{"timestamp": "2025-10-22T04:33:18.633437+00:00", "office": "Perth - Support Centre", "occupancy": 0, "capacity": 60}
+{"timestamp": "2025-10-22T04:33:18.633461+00:00", "office": "Adelaide - Field Team", "occupancy": 2, "capacity": 30}
+{"timestamp": "2025-10-22T04:33:18.633484+00:00", "office": "Auckland - NZ Branch", "occupancy": 2, "capacity": 50}
+{"timestamp": "2025-10-22T04:33:18.633505+00:00", "office": "Wellington - NZ Support", "occupancy": 2, "capacity": 50}
+{"timestamp": "2025-10-22T04:33:18.633529+00:00", "office": "New York - US Sales", "occupancy": 1, "capacity": 90}
+{"timestamp": "2025-10-22T04:33:18.633554+00:00", "office": "London - EMEA Office", "occupancy": 1, "capacity": 70}
+{"timestamp": "2025-10-22T04:48:18.642393+00:00", "office": "Wollongong - Head Office", "occupancy": 11, "capacity": 200}
+{"timestamp": "2025-10-22T04:48:18.642537+00:00", "office": "Melbourne - Sales Hub", "occupancy": 8, "capacity": 120}
+{"timestamp": "2025-10-22T04:48:18.642572+00:00", "office": "Brisbane - Regional Office", "occupancy": 0, "capacity": 80}
+{"timestamp": "2025-10-22T04:48:18.642600+00:00", "office": "Perth - Support Centre", "occupancy": 0, "capacity": 60}
+{"timestamp": "2025-10-22T04:48:18.642622+00:00", "office": "Adelaide - Field Team", "occupancy": 0, "capacity": 30}
+{"timestamp": "2025-10-22T04:48:18.642644+00:00", "office": "Auckland - NZ Branch", "occupancy": 4, "capacity": 50}
+{"timestamp": "2025-10-22T04:48:18.642666+00:00", "office": "Wellington - NZ Support", "occupancy": 1, "capacity": 50}
+{"timestamp": "2025-10-22T04:48:18.642689+00:00", "office": "New York - US Sales", "occupancy": 5, "capacity": 90}
+{"timestamp": "2025-10-22T04:48:18.642712+00:00", "office": "London - EMEA Office", "occupancy": 1, "capacity": 70}
+{"timestamp": "2025-10-22T05:03:18.654250+00:00", "office": "Wollongong - Head Office", "occupancy": 3, "capacity": 200}
+{"timestamp": "2025-10-22T05:03:18.654385+00:00", "office": "Melbourne - Sales Hub", "occupancy": 10, "capacity": 120}
+{"timestamp": "2025-10-22T05:03:18.654420+00:00", "office": "Brisbane - Regional Office", "occupancy": 0, "capacity": 80}
+{"timestamp": "2025-10-22T05:03:18.654446+00:00", "office": "Perth - Support Centre", "occupancy": 6, "capacity": 60}
+{"timestamp": "2025-10-22T05:03:18.654470+00:00", "office": "Adelaide - Field Team", "occupancy": 2, "capacity": 30}
+{"timestamp": "2025-10-22T05:03:18.654493+00:00", "office": "Auckland - NZ Branch", "occupancy": 0, "capacity": 50}
+{"timestamp": "2025-10-22T05:03:18.654517+00:00", "office": "Wellington - NZ Support", "occupancy": 4, "capacity": 50}
+{"timestamp": "2025-10-22T05:03:18.654542+00:00", "office": "New York - US Sales", "occupancy": 4, "capacity": 90}
+{"timestamp": "2025-10-22T05:03:18.654566+00:00", "office": "London - EMEA Office", "occupancy": 0, "capacity": 70}
+{"timestamp": "2025-10-22T05:08:22.838982+00:00", "office": "Wollongong - Head Office", "occupancy": 19, "capacity": 200}
+{"timestamp": "2025-10-22T05:08:22.838996+00:00", "office": "Melbourne - Sales Hub", "occupancy": 5, "capacity": 120}
+{"timestamp": "2025-10-22T05:08:22.839002+00:00", "office": "Brisbane - Regional Office", "occupancy": 1, "capacity": 80}
+{"timestamp": "2025-10-22T05:08:22.839006+00:00", "office": "Perth - Support Centre", "occupancy": 0, "capacity": 60}
+{"timestamp": "2025-10-22T05:08:22.839009+00:00", "office": "Adelaide - Field Team", "occupancy": 0, "capacity": 30}
+{"timestamp": "2025-10-22T05:08:22.839011+00:00", "office": "Auckland - NZ Branch", "occupancy": 4, "capacity": 50}
+{"timestamp": "2025-10-22T05:08:22.839014+00:00", "office": "Wellington - NZ Support", "occupancy": 0, "capacity": 50}
+{"timestamp": "2025-10-22T05:08:22.839016+00:00", "office": "New York - US Sales", "occupancy": 5, "capacity": 90}
+{"timestamp": "2025-10-22T05:08:22.839019+00:00", "office": "London - EMEA Office", "occupancy": 3, "capacity": 70}
+{"timestamp": "2025-10-22T05:08:32.444635+00:00", "office": "Wollongong - Head Office", "occupancy": 15, "capacity": 200}
+{"timestamp": "2025-10-22T05:08:32.444647+00:00", "office": "Melbourne - Sales Hub", "occupancy": 4, "capacity": 120}
+{"timestamp": "2025-10-22T05:08:32.444653+00:00", "office": "Brisbane - Regional Office", "occupancy": 1, "capacity": 80}
+{"timestamp": "2025-10-22T05:08:32.444659+00:00", "office": "Perth - Support Centre", "occupancy": 4, "capacity": 60}
+{"timestamp": "2025-10-22T05:08:32.444681+00:00", "office": "Adelaide - Field Team", "occupancy": 0, "capacity": 30}
+{"timestamp": "2025-10-22T05:08:32.444684+00:00", "office": "Auckland - NZ Branch", "occupancy": 3, "capacity": 50}
+{"timestamp": "2025-10-22T05:08:32.444687+00:00", "office": "Wellington - NZ Support", "occupancy": 4, "capacity": 50}
+{"timestamp": "2025-10-22T05:08:32.444689+00:00", "office": "New York - US Sales", "occupancy": 0, "capacity": 90}
+{"timestamp": "2025-10-22T05:08:32.444692+00:00", "office": "London - EMEA Office", "occupancy": 1, "capacity": 70}
+{"timestamp": "2025-10-22T05:08:50.841168+00:00", "office": "Wollongong - Head Office", "occupancy": 17, "capacity": 200}
+{"timestamp": "2025-10-22T05:08:50.841183+00:00", "office": "Melbourne - Sales Hub", "occupancy": 5, "capacity": 120}
+{"timestamp": "2025-10-22T05:08:50.841190+00:00", "office": "Brisbane - Regional Office", "occupancy": 7, "capacity": 80}
+{"timestamp": "2025-10-22T05:08:50.841194+00:00", "office": "Perth - Support Centre", "occupancy": 6, "capacity": 60}
+{"timestamp": "2025-10-22T05:08:50.841197+00:00", "office": "Adelaide - Field Team", "occupancy": 1, "capacity": 30}
+{"timestamp": "2025-10-22T05:08:50.841200+00:00", "office": "Auckland - NZ Branch", "occupancy": 3, "capacity": 50}
+{"timestamp": "2025-10-22T05:08:50.841202+00:00", "office": "Wellington - NZ Support", "occupancy": 1, "capacity": 50}
+{"timestamp": "2025-10-22T05:08:50.841205+00:00", "office": "New York - US Sales", "occupancy": 4, "capacity": 90}
+{"timestamp": "2025-10-22T05:08:50.841207+00:00", "office": "London - EMEA Office", "occupancy": 5, "capacity": 70}
+{"timestamp": "2025-10-22T05:09:01.553730+00:00", "office": "Wollongong - Head Office", "occupancy": 22, "capacity": 200}
+{"timestamp": "2025-10-22T05:09:01.553744+00:00", "office": "Melbourne - Sales Hub", "occupancy": 1, "capacity": 120}
+{"timestamp": "2025-10-22T05:09:01.553751+00:00", "office": "Brisbane - Regional Office", "occupancy": 2, "capacity": 80}
+{"timestamp": "2025-10-22T05:09:01.553755+00:00", "office": "Perth - Support Centre", "occupancy": 3, "capacity": 60}
+{"timestamp": "2025-10-22T05:09:01.553758+00:00", "office": "Adelaide - Field Team", "occupancy": 1, "capacity": 30}
+{"timestamp": "2025-10-22T05:09:01.553761+00:00", "office": "Auckland - NZ Branch", "occupancy": 0, "capacity": 50}
+{"timestamp": "2025-10-22T05:09:01.553764+00:00", "office": "Wellington - NZ Support", "occupancy": 3, "capacity": 50}
+{"timestamp": "2025-10-22T05:09:01.553767+00:00", "office": "New York - US Sales", "occupancy": 7, "capacity": 90}
+{"timestamp": "2025-10-22T05:09:01.553770+00:00", "office": "London - EMEA Office", "occupancy": 3, "capacity": 70}
+{"timestamp": "2025-10-22T05:09:35.146000+00:00", "office": "Wollongong - Head Office", "occupancy": 16, "capacity": 200}
+{"timestamp": "2025-10-22T05:09:35.146014+00:00", "office": "Melbourne - Sales Hub", "occupancy": 10, "capacity": 120}
+{"timestamp": "2025-10-22T05:09:35.146021+00:00", "office": "Brisbane - Regional Office", "occupancy": 8, "capacity": 80}
+{"timestamp": "2025-10-22T05:09:35.146025+00:00", "office": "Perth - Support Centre", "occupancy": 3, "capacity": 60}
+{"timestamp": "2025-10-22T05:09:35.146028+00:00", "office": "Adelaide - Field Team", "occupancy": 2, "capacity": 30}
+{"timestamp": "2025-10-22T05:09:35.146031+00:00", "office": "Auckland - NZ Branch", "occupancy": 4, "capacity": 50}
+{"timestamp": "2025-10-22T05:09:35.146034+00:00", "office": "Wellington - NZ Support", "occupancy": 4, "capacity": 50}
+{"timestamp": "2025-10-22T05:09:35.146036+00:00", "office": "New York - US Sales", "occupancy": 5, "capacity": 90}
+{"timestamp": "2025-10-22T05:09:35.146039+00:00", "office": "London - EMEA Office", "occupancy": 2, "capacity": 70}
+{"timestamp": "2025-10-22T05:09:35.638137+00:00", "office": "Wollongong - Head Office", "occupancy": 11, "capacity": 200}
+{"timestamp": "2025-10-22T05:09:35.638151+00:00", "office": "Melbourne - Sales Hub", "occupancy": 1, "capacity": 120}
+{"timestamp": "2025-10-22T05:09:35.638158+00:00", "office": "Brisbane - Regional Office", "occupancy": 8, "capacity": 80}
+{"timestamp": "2025-10-22T05:09:35.638230+00:00", "office": "Perth - Support Centre", "occupancy": 4, "capacity": 60}
+{"timestamp": "2025-10-22T05:09:35.638234+00:00", "office": "Adelaide - Field Team", "occupancy": 1, "capacity": 30}
+{"timestamp": "2025-10-22T05:09:35.638237+00:00", "office": "Auckland - NZ Branch", "occupancy": 0, "capacity": 50}
+{"timestamp": "2025-10-22T05:09:35.638240+00:00", "office": "Wellington - NZ Support", "occupancy": 3, "capacity": 50}
+{"timestamp": "2025-10-22T05:09:35.638242+00:00", "office": "New York - US Sales", "occupancy": 7, "capacity": 90}
+{"timestamp": "2025-10-22T05:09:35.638245+00:00", "office": "London - EMEA Office", "occupancy": 4, "capacity": 70}
+{"timestamp": "2025-10-22T05:10:00.428498+00:00", "office": "Wollongong - Head Office", "occupancy": 13, "capacity": 200}
+{"timestamp": "2025-10-22T05:10:00.428512+00:00", "office": "Melbourne - Sales Hub", "occupancy": 9, "capacity": 120}
+{"timestamp": "2025-10-22T05:10:00.428519+00:00", "office": "Brisbane - Regional Office", "occupancy": 4, "capacity": 80}
+{"timestamp": "2025-10-22T05:10:00.428523+00:00", "office": "Perth - Support Centre", "occupancy": 1, "capacity": 60}
+{"timestamp": "2025-10-22T05:10:00.428526+00:00", "office": "Adelaide - Field Team", "occupancy": 2, "capacity": 30}
+{"timestamp": "2025-10-22T05:10:00.428528+00:00", "office": "Auckland - NZ Branch", "occupancy": 1, "capacity": 50}
+{"timestamp": "2025-10-22T05:10:00.428531+00:00", "office": "Wellington - NZ Support", "occupancy": 1, "capacity": 50}
+{"timestamp": "2025-10-22T05:10:00.428534+00:00", "office": "New York - US Sales", "occupancy": 3, "capacity": 90}
+{"timestamp": "2025-10-22T05:10:00.428536+00:00", "office": "London - EMEA Office", "occupancy": 3, "capacity": 70}
+{"timestamp": "2025-10-22T05:12:53.096730+00:00", "office": "Wollongong - Head Office", "occupancy": 15, "capacity": 200}
+{"timestamp": "2025-10-22T05:12:53.096744+00:00", "office": "Melbourne - Sales Hub", "occupancy": 8, "capacity": 120}
+{"timestamp": "2025-10-22T05:12:53.096751+00:00", "office": "Brisbane - Regional Office", "occupancy": 2, "capacity": 80}
+{"timestamp": "2025-10-22T05:12:53.096754+00:00", "office": "Perth - Support Centre", "occupancy": 2, "capacity": 60}
+{"timestamp": "2025-10-22T05:12:53.096757+00:00", "office": "Adelaide - Field Team", "occupancy": 1, "capacity": 30}
+{"timestamp": "2025-10-22T05:12:53.096761+00:00", "office": "Auckland - NZ Branch", "occupancy": 1, "capacity": 50}
+{"timestamp": "2025-10-22T05:12:53.096763+00:00", "office": "Wellington - NZ Support", "occupancy": 1, "capacity": 50}
+{"timestamp": "2025-10-22T05:12:53.096766+00:00", "office": "New York - US Sales", "occupancy": 5, "capacity": 90}
+{"timestamp": "2025-10-22T05:12:53.096768+00:00", "office": "London - EMEA Office", "occupancy": 3, "capacity": 70}
+{"timestamp": "2025-10-22T05:12:56.338452+00:00", "office": "Wollongong - Head Office", "occupancy": 4, "capacity": 200}
+{"timestamp": "2025-10-22T05:12:56.338467+00:00", "office": "Melbourne - Sales Hub", "occupancy": 10, "capacity": 120}
+{"timestamp": "2025-10-22T05:12:56.338474+00:00", "office": "Brisbane - Regional Office", "occupancy": 3, "capacity": 80}
+{"timestamp": "2025-10-22T05:12:56.338478+00:00", "office": "Perth - Support Centre", "occupancy": 1, "capacity": 60}
+{"timestamp": "2025-10-22T05:12:56.338481+00:00", "office": "Adelaide - Field Team", "occupancy": 2, "capacity": 30}
+{"timestamp": "2025-10-22T05:12:56.338485+00:00", "office": "Auckland - NZ Branch", "occupancy": 3, "capacity": 50}
+{"timestamp": "2025-10-22T05:12:56.338487+00:00", "office": "Wellington - NZ Support", "occupancy": 2, "capacity": 50}
+{"timestamp": "2025-10-22T05:12:56.338490+00:00", "office": "New York - US Sales", "occupancy": 7, "capacity": 90}
+{"timestamp": "2025-10-22T05:12:56.338493+00:00", "office": "London - EMEA Office", "occupancy": 5, "capacity": 70}
+{"timestamp": "2025-10-22T05:13:05.870373+00:00", "office": "Wollongong - Head Office", "occupancy": 10, "capacity": 200}
+{"timestamp": "2025-10-22T05:13:05.870387+00:00", "office": "Melbourne - Sales Hub", "occupancy": 6, "capacity": 120}
+{"timestamp": "2025-10-22T05:13:05.870394+00:00", "office": "Brisbane - Regional Office", "occupancy": 3, "capacity": 80}
+{"timestamp": "2025-10-22T05:13:05.870398+00:00", "office": "Perth - Support Centre", "occupancy": 3, "capacity": 60}
+{"timestamp": "2025-10-22T05:13:05.870401+00:00", "office": "Adelaide - Field Team", "occupancy": 1, "capacity": 30}
+{"timestamp": "2025-10-22T05:13:05.870405+00:00", "office": "Auckland - NZ Branch", "occupancy": 2, "capacity": 50}
+{"timestamp": "2025-10-22T05:13:05.870407+00:00", "office": "Wellington - NZ Support", "occupancy": 2, "capacity": 50}
+{"timestamp": "2025-10-22T05:13:05.870410+00:00", "office": "New York - US Sales", "occupancy": 3, "capacity": 90}
+{"timestamp": "2025-10-22T05:13:05.870413+00:00", "office": "London - EMEA Office", "occupancy": 4, "capacity": 70}
+{"timestamp": "2025-10-22T05:28:05.905336+00:00", "office": "Wollongong - Head Office", "occupancy": 11, "capacity": 200}
+{"timestamp": "2025-10-22T05:28:05.905495+00:00", "office": "Melbourne - Sales Hub", "occupancy": 8, "capacity": 120}
+{"timestamp": "2025-10-22T05:28:05.905535+00:00", "office": "Brisbane - Regional Office", "occupancy": 8, "capacity": 80}
+{"timestamp": "2025-10-22T05:28:05.905577+00:00", "office": "Perth - Support Centre", "occupancy": 6, "capacity": 60}
+{"timestamp": "2025-10-22T05:28:05.905604+00:00", "office": "Adelaide - Field Team", "occupancy": 1, "capacity": 30}
+{"timestamp": "2025-10-22T05:28:05.905632+00:00", "office": "Auckland - NZ Branch", "occupancy": 2, "capacity": 50}
+{"timestamp": "2025-10-22T05:28:05.905656+00:00", "office": "Wellington - NZ Support", "occupancy": 3, "capacity": 50}
+{"timestamp": "2025-10-22T05:28:05.905682+00:00", "office": "New York - US Sales", "occupancy": 1, "capacity": 90}
+{"timestamp": "2025-10-22T05:28:05.905711+00:00", "office": "London - EMEA Office", "occupancy": 3, "capacity": 70}
+{"timestamp": "2025-10-22T05:41:55.877421+00:00", "office": "Wollongong - Head Office", "occupancy": 21, "capacity": 200}
+{"timestamp": "2025-10-22T05:41:55.877434+00:00", "office": "Melbourne - Sales Hub", "occupancy": 4, "capacity": 120}
+{"timestamp": "2025-10-22T05:41:55.877441+00:00", "office": "Brisbane - Regional Office", "occupancy": 8, "capacity": 80}
+{"timestamp": "2025-10-22T05:41:55.877445+00:00", "office": "Perth - Support Centre", "occupancy": 4, "capacity": 60}
+{"timestamp": "2025-10-22T05:41:55.877448+00:00", "office": "Adelaide - Field Team", "occupancy": 1, "capacity": 30}
+{"timestamp": "2025-10-22T05:41:55.877450+00:00", "office": "Auckland - NZ Branch", "occupancy": 4, "capacity": 50}
+{"timestamp": "2025-10-22T05:41:55.877453+00:00", "office": "Wellington - NZ Support", "occupancy": 4, "capacity": 50}
+{"timestamp": "2025-10-22T05:41:55.877455+00:00", "office": "New York - US Sales", "occupancy": 7, "capacity": 90}
+{"timestamp": "2025-10-22T05:41:55.877458+00:00", "office": "London - EMEA Office", "occupancy": 0, "capacity": 70}
+{"timestamp": "2025-10-22T05:42:07.207347+00:00", "office": "Wollongong - Head Office", "occupancy": 20, "capacity": 200}
+{"timestamp": "2025-10-22T05:42:07.207361+00:00", "office": "Melbourne - Sales Hub", "occupancy": 4, "capacity": 120}
+{"timestamp": "2025-10-22T05:42:07.207370+00:00", "office": "Brisbane - Regional Office", "occupancy": 2, "capacity": 80}
+{"timestamp": "2025-10-22T05:42:07.207376+00:00", "office": "Perth - Support Centre", "occupancy": 1, "capacity": 60}
+{"timestamp": "2025-10-22T05:42:07.207379+00:00", "office": "Adelaide - Field Team", "occupancy": 2, "capacity": 30}
+{"timestamp": "2025-10-22T05:42:07.207383+00:00", "office": "Auckland - NZ Branch", "occupancy": 2, "capacity": 50}
+{"timestamp": "2025-10-22T05:42:07.207386+00:00", "office": "Wellington - NZ Support", "occupancy": 3, "capacity": 50}
+{"timestamp": "2025-10-22T05:42:07.207389+00:00", "office": "New York - US Sales", "occupancy": 0, "capacity": 90}
+{"timestamp": "2025-10-22T05:42:07.207392+00:00", "office": "London - EMEA Office", "occupancy": 3, "capacity": 70}
+{"timestamp": "2025-10-22T05:45:40.370247+00:00", "office": "Wollongong - Head Office", "occupancy": 8, "capacity": 200}
+{"timestamp": "2025-10-22T05:45:40.370261+00:00", "office": "Melbourne - Sales Hub", "occupancy": 5, "capacity": 120}
+{"timestamp": "2025-10-22T05:45:40.370268+00:00", "office": "Brisbane - Regional Office", "occupancy": 7, "capacity": 80}
+{"timestamp": "2025-10-22T05:45:40.370272+00:00", "office": "Perth - Support Centre", "occupancy": 4, "capacity": 60}
+{"timestamp": "2025-10-22T05:45:40.370275+00:00", "office": "Adelaide - Field Team", "occupancy": 0, "capacity": 30}
+{"timestamp": "2025-10-22T05:45:40.370278+00:00", "office": "Auckland - NZ Branch", "occupancy": 4, "capacity": 50}
+{"timestamp": "2025-10-22T05:45:40.370280+00:00", "office": "Wellington - NZ Support", "occupancy": 0, "capacity": 50}
+{"timestamp": "2025-10-22T05:45:40.370283+00:00", "office": "New York - US Sales", "occupancy": 2, "capacity": 90}
+{"timestamp": "2025-10-22T05:45:40.370286+00:00", "office": "London - EMEA Office", "occupancy": 5, "capacity": 70}
